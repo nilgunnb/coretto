@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: Marcellus;
+    src: url('../fonts/marcellus/Marcellus-Regular.ttf');
+}
+
+@font-face {
+    font-family: Light;
+    src: url('../fonts/opensans/static/OpenSans-Light.ttf');
+}

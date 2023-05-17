@@ -1,0 +1,52 @@
+.head-text h2{
+    font-family: Marcellus;
+    font-size: 45px;
+    margin-bottom: 20px;
+    
+}
+
+::selection{
+    color: #fff;
+    background-color: #be9c79;
+}
+.head-text{
+    text-align: center;
+    margin-top: 90px;
+   
+}
+
+.head-text h6{
+    font-size: 18px;
+    font-family: Light;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.content-section{
+    margin-top: 63px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 1% 15% 0;
+}
+
+.content p{
+    color: #656565;
+    font-family: Light;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.image{
+    margin-bottom: 20px;
+}
+.content a{
+    color: black;
+    font-family: Marcellus;
+    font-size: 20px;
+}
+
+.content a:hover{
+    color: #be9c79;
+}
